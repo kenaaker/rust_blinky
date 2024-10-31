@@ -1,0 +1,6 @@
+# Wokwi Configuration File
+# Reference: https://docs.wokwi.com/vscode/project-config
+[wokwi]
+version = 1
+firmware = 'target/riscv32imac-unknown-none-elf/release/xiao-esp32c6-blinky'
+elf = 'target/riscv32imac-unknown-none-elf/release/xiao-esp32c6-blinky'
