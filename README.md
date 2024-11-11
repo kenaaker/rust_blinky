@@ -1,5 +1,5 @@
 # xiao-esp32c6-blinky
-An example  Rust project that uses pin GPIO15 on an XIAO-ESP32-C6 board to blink an BUILTIN LED.
+An example  Rust project that uses pin GPIO15 on a [Seeed Studio XIAO-ESP32-C6 board](https://www.seeedstudio.com/Seeed-Studio-XIAO-ESP32C6-p-5884.html) to blink a BUILTIN LED.
 
 Project was generated using esp-teamplate:
 
