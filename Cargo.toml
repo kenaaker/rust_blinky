@@ -28,3 +28,7 @@ incremental = false
 lto = 'fat'
 opt-level = 's'
 overflow-checks = false
+
+[[bin]]
+name = "blinky"
+path = "/afs/aaker.org/home/kdaaker/src/rust/xiao-blinky/src/blinky.rs"
