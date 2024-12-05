@@ -1,7 +1,7 @@
 //! Blinks an LED
 //!
 //! The following wiring is assumed:
-//! - LED => LED_BUILTIN
+//! - LED => io.pins.gpio15
 //! https://github.com/espressif/arduino-esp32/blob/d47771f2cc649c3cd52a3f6eb3d9b97c82005ffb/variants/XIAO_ESP32C6/pins_arduino.h#L13
 
 
